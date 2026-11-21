@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Program Education\c++\Athena\termial\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Program Education\c++\Athena\termial\src\console\serial.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Program Education\c++\Athena\termial\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{50B45C74-D69F-3068-BE48-353AB5E6DE6E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

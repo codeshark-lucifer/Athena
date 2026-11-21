@@ -1,0 +1,3 @@
+D:/Program Education/c++/Athena/termial/build/CMakeFiles/termial.dir
+D:/Program Education/c++/Athena/termial/build/CMakeFiles/ALL_BUILD.dir
+D:/Program Education/c++/Athena/termial/build/CMakeFiles/ZERO_CHECK.dir

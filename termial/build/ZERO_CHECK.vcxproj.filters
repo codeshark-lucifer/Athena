@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Program Education\c++\Athena\termial\build\CMakeFiles\e9a690d03ba39096ba5493678d19097b\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{9590750C-37AF-3C0D-9FA3-CB223EF5EEC1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

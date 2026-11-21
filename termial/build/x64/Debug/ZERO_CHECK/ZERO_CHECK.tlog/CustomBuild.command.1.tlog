@@ -1,0 +1,10 @@
+^D:\PROGRAM EDUCATION\C++\ATHENA\TERMIAL\BUILD\CMAKEFILES\E9A690D03BA39096BA5493678D19097B\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\18\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SD:/Program Education/c++/Athena/termial" "-BD:/Program Education/c++/Athena/termial/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "D:/Program Education/c++/Athena/termial/build/Termial2ESP32.slnx"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
